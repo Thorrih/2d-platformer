@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e13e8084f441778489f96b2029d2c0d7
+guid: f3e7ebeedfdb6194d821f678f9b71a41
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,85 +104,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: maricho (3)_0
+      name: maricho (7)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5058356, y: 0.5256769}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcc5013462f03944bb6d9fdeffe094c1
-      internalID: 147717613
+      spriteID: 9711707c70dd639439176af480300f6f
+      internalID: -1582748643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: maricho (3)_1
+      name: maricho (7)_1
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 64
         height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.6855742, y: 0.5116713}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06f2844f1b392974cb1986cbaff783b3
-      internalID: 971754711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: maricho (3)_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d79ee79791c4d214297744c269552ef2
-      internalID: -1458860356
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: maricho (3)_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: efb59e59b8ed5234bbe37cb14a5ed544
-      internalID: 1867889838
+      spriteID: 3191d466830f38c4fb1d8464335b221c
+      internalID: 1668004671
       vertices: []
       indices: 
       edges: []
@@ -198,10 +156,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      maricho (3)_0: 147717613
-      maricho (3)_1: 971754711
-      maricho (3)_3: 1867889838
-      maricho (3)_2: -1458860356
+      maricho (7)_1: 1668004671
+      maricho (7)_0: -1582748643
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

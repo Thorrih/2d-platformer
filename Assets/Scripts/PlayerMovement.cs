@@ -42,4 +42,6 @@ public class PlayerMovement : MonoBehaviour
             if(collision.gameObject.tag =="ground");
             grounded = true;
         }
+
+        
 }   
